@@ -24,9 +24,9 @@
 
 <br />
 
-Hello, my name is **Francisco** and I live in Goiania.
+Hello, my name is **Francisco** and I live in Goiania/GO/Brazil.
 
-I have experience in Java, Python, Android, Iot, MachineLearning, BigData, C#, Angular.
+I have experience in Java, Python, Android, Iot, MachineLearning, BigData, C#, Angular and others...
 
 Now I work at Startup CampoGestao where I design and developing software techologies to brasilian agribusiness. In this work I use Java with springboot, postgres as relational database and mongodb as not relational database. I use message service like a RabbitMq too.
 At this moment I have worked in two projects that makes me proud. First is a Enterprise Resource Planing for soy and corn farmers. In this project I have integrations with Internet of Things devices and I use machine learning and pattern recognition to offer to users some recomendations of prices and suplies for work them.
@@ -54,3 +54,7 @@ I have a <a href="http://youtube.com/proffranciscocalaca"> <img alt="Francisco C
 
 In my chanel I teach about technologies that I have worked. Please subscribe.
 
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chicocx&show_icons=true&theme=gotham" alt="chicocx" />
