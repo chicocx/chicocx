@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/franciscocalaca/">
   <img align="left" alt="Francisco Calaça LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/franciscocalaca/">
+<a href="https://gitlab.com/chicocx/">
   <img align="left" alt="Francisco Calaça GitLab" width="22px" src="images/logo/gitlab.png" />
 </a>
 
