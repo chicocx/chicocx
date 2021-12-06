@@ -44,16 +44,13 @@ My lemma is: it's not because you have a hammer that every screw is a nail. you 
 
 ### My Projects
 
-I have projects that I commited into GitHub and <a href="https://gitlab.com/chicocx/"><img align="left" alt="Francisco Calaça GitLab" width="22px" src="images/logo/gitlab.png" />GitLab</a>. You can access this projects in their respective environments.
+I have projects that I commited into GitHub and <a href="https://gitlab.com/chicocx/"><img alt="Francisco Calaça GitLab" width="22px" src="images/logo/gitlab.png" />GitLab</a>. You can access this projects in their respective environments.
 
 I really enjoy sharing knowledge. So, if you want any example and it is within my reach, you can contact me.
 
 ### My YouTube Chanel
 
-I have a 
-
-<a href="http://youtube.com/proffranciscocalaca">
-  <img align="left" alt="Francisco Calaça Youtube" width="22px" src="images/logo/youtube.png" /> YouTube Chanel
-</a> too.
+I have a <a href="http://youtube.com/proffranciscocalaca"> <img alt="Francisco Calaça Youtube" width="22px" src="images/logo/youtube.png" /> YouTube Chanel </a> too.
 
 In my chanel I teach about technologies that I have worked. Please subscribe.
+
